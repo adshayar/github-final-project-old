@@ -21,3 +21,5 @@ The user enters the principal amount, rate of interest, and time period. The cal
 ## Formula
 
 SI = (P × R × T) / 100
+
+2022 XYZ, Inc.
